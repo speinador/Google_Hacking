@@ -133,30 +133,9 @@ filetype:env "DB_PASSWORD"
 
 ## 🧑‍🏫 Autor
 
-**Sebastián Peinador**  
-👨‍💼 Jefe de Soporte y Sistemas - Hospital José M. Penna (CABA)  
-👨‍🏫 Docente - CFP36, Ministerio de Educación (CABA)  
-💻 Especialista en Tecnología, Educación y Ciberseguridad
-
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
 ---
 
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
-
----
-
-## 🤝 Contribuciones
-
-¡Sos bienvenido/a a colaborar! Podés:
-
-- Sugerir nuevos dorks
-- Agregar ejemplos con capturas
-- Crear ejercicios prácticos
-- Reportar errores en los comandos
-
----
-
-## ⭐ ¡Apoyá el proyecto!
-
-Si este repositorio te resulta útil, dejá una estrella ⭐ y compartilo con colegas o estudiantes.
