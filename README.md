@@ -64,7 +64,7 @@ inurl:wp-content/uploads filetype:pdf
 intext:"Index of /" "backup"
 filetype:env "DB_PASSWORD"
 ```
-
+Cada uno permite descubrir configuraciones, contraseñas, directorios públicos, paneles de administración o documentos sensibles.
 ---
 
 ## 🧪 Casos prácticos
@@ -143,20 +143,3 @@ filetype:env "DB_PASSWORD"
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
-
----
-
-## 🤝 Contribuciones
-
-¡Sos bienvenido/a a colaborar! Podés:
-
-- Sugerir nuevos dorks
-- Agregar ejemplos con capturas
-- Crear ejercicios prácticos
-- Reportar errores en los comandos
-
----
-
-## ⭐ ¡Apoyá el proyecto!
-
-Si este repositorio te resulta útil, dejá una estrella ⭐ y compartilo con colegas o estudiantes.
