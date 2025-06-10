@@ -140,3 +140,7 @@ Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/seba
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
+
+---
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
