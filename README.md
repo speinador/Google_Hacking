@@ -134,6 +134,7 @@ filetype:env "DB_PASSWORD"
 ## 🧑‍🏫 Autor
 
 Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+
 ---
 
 ## 📄 Licencia
